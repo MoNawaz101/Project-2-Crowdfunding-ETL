@@ -36,14 +36,14 @@ CREATE TABLE "campaign" (
     "description" VARCHAR(100)   NOT NULL,
     "goal" DECIMAL   NOT NULL,
     "pledged" DECIMAL   NOT NULL,
-    "outcome" VARCHAR(12)   NOT NULL,
+    "outcome" VARCHAR(10)   NOT NULL,
     "backers_count" int   NOT NULL,
-    "country" VARCHAR(3)   NOT NULL,
+    "country" VARCHAR(2)   NOT NULL,
     "currency" VARCHAR(3)   NOT NULL,
     "launched_date" DATE   NOT NULL,
     "end_date" DATE   NOT NULL,
-    "category_id" varchar(20)   NOT NULL,
-    "subcategory_id" varchar(20)   NOT NULL,
+    "category_id" varchar(5)   NOT NULL,
+    "subcategory_id" varchar(8)   NOT NULL,
     CONSTRAINT "pk_campaign" PRIMARY KEY (
         "cf_id"
      )
