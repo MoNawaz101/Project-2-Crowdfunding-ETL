@@ -3,6 +3,15 @@
 For the ETL mini project, as a group we practiced building an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. After the data  
 has been transformed we created four CSV files and used the CSV file data to create an ERD and a table schema. Finally, the CSV file data was uploaded into a Postgres database.
 
+## Directory Structure
+
+The root folder contains all the Jupyter Notebook and Database files
+
+The root also contains to folder for the output CSV files;
+-[Resources](Resources)
+-[Crowdfunding Database output files](Crowdfunding-Database-Outputs)
+
+
 ## Jupyter Notebook files
 [ETL_Mini_Project_MNawaz_EAlton_KKhan_Starter_Code.ipynb](ETL_Mini_Project_MNawaz_EAlton_KKhan_Starter_Code.ipynb)  
 - Completed file which does the following:
@@ -26,7 +35,7 @@ has been transformed we created four CSV files and used the CSV file data to cre
 - ERD diagram to show the relationships between the four tables
 
 [crowdfunding_db_schema.sql](crowdfunding_db_schema.sql)  
-- Table schema for the database creates the foour tables (category, subcategory, contacts and campaign)
+- Table schema for the database creates the four tables (category, subcategory, contacts and campaign)
 
 [crowdfunding_queries.sql](crowdfunding_queries.sql)
 - Simple queries which select the data from each of the tables. These output the csv files in the [Crowdfunding Database Outputs](Crowdfunding Database Outputs) folder
