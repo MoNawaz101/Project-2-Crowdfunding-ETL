@@ -2,6 +2,7 @@
 -- Link to schema: https://app.quickdatabasediagrams.com/#/d/cFDCpS
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
 
+ALTER DATABASE "crowdfunding_db" SET datestyle to "ISO, YMD";
 
 CREATE TABLE "category" (
     "category_id" varchar(5)   NOT NULL,
