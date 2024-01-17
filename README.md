@@ -7,8 +7,8 @@ has been transformed we created four CSV files and used the CSV file data to cre
 
 The root folder contains all the Jupyter Notebook and Database files
 
-The root also contains to folder for the output CSV files;
--[Resources](Resources)
+The root also contains to folder for the output CSV files;  
+-[Resources](Resources)  
 -[Crowdfunding Database output files](Crowdfunding-Database-Outputs)
 
 
