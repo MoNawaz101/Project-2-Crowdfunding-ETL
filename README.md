@@ -6,5 +6,18 @@ has been transformed we created four CSV files and used the CSV file data to cre
 ## Jupyter Notebook files
 [ETL_Mini_Project_MNawaz_EAlton_KKhan_Starter_Code.ipynb](ETL_Mini_Project_MNawaz_EAlton_KKhan_Starter_Code.ipynb)  
 - Completed file which does the following:
+  - Loads the original excel files provided as starter code,  [crowdfunding.xlsx](Resources/crowdfunding.xlsx) and [contacts.xlsx](Resources/contacts.xlsx)
   - Create the category and subcategory dataframes and exports as two csv files, [category.csv](Resources/category.csv) and [subcategory.csv](Resources/subcategory.csv)
+  - Create the campaign dataframe, and output as [campaign.csv](Resources/campaign.csv)
+  - Create the contacts dataframe, and ouput a s [contacts.csv](Resources/contacts.csv)
+
+[ETL_Mini_Project_MNawaz_Starter_Code.ipynb](ETL_Mini_Project_MNawaz_Starter_Code.ipynb)
+- Working file for M. Nawaz to produce the category, subcategory and contacts dataframes and export them as CSV files,  [category.csv](Resources/category.csv), [subcategory.csv](Resources/subcategory.csv) and [contacts.csv](Resources/contacts.csv)
+
+[ETL_Mini_Project_EAlton_Starter_Code.ipynb](ETL_Mini_Project_EAlton_Starter_Code.ipynb)
+- Working for E. Alton in order produce the campaign dataframe and to export the data to [campaign.csv](Resources/campaign.csv)
+
+[contacts_df.ipynb](contacts_df.ipynb)
+- Working file for K. Khan for the purpose of producing the contacts dataframe.
+
 
