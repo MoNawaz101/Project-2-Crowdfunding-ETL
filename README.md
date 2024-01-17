@@ -9,7 +9,7 @@ The root folder contains all the Jupyter Notebook and Database files
 
 The root also contains to folder for the output CSV files;  
 -[Resources](Resources)  
--[Crowdfunding Database output files](https://github.com/MoNawaz101/Project-2-Crowdfunding-ETL/tree/main/Crowdfunding%20Database%20Outputs)
+-[Crowdfunding Database output files](Crowdfunding%20Database%20Outputs)
 
 
 ## Jupyter Notebook files
