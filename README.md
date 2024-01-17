@@ -43,5 +43,11 @@ Contains the 4 output results from the database query of each table
 - Simple queries which select the data from each of the tables. These output the csv files in the [Crowdfunding Database Outputs](Crowdfunding Database Outputs) folder
 
 
+## Collaborators  
+- [M. Nawaz](https://github.com/MoNawaz101)
+- [K. Khan](https://github.com/kehlanijaan)
+- [E. Alton](https://github.com/ERAA1997)
+
+
   
 
