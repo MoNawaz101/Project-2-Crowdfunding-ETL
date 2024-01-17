@@ -6,5 +6,5 @@ has been transformed we created four CSV files and used the CSV file data to cre
 ## Jupyter Notebook files
 [ETL_Mini_Project_MNawaz_EAlton_KKhan_Starter_Code.ipynb](ETL_Mini_Project_MNawaz_EAlton_KKhan_Starter_Code.ipynb)  
 - Completed file which does the following:
-- -Create the category and subcategory dataframes and exports as two csv files, [category.csv](Resources/category.csv) and [subcategory.csv](Resources/subcategory.csv)
+  - Create the category and subcategory dataframes and exports as two csv files, [category.csv](Resources/category.csv) and [subcategory.csv](Resources/subcategory.csv)
 
