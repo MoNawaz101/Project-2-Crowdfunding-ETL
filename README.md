@@ -10,7 +10,7 @@ The root folder contains all the Jupyter Notebook and Database files
 The root also contains to folder for the output CSV files;  
 -[Resources](Resources)   
 Contains the 2 original starting XLS files and the outputted CSV file from the Jupyter Notebook files  
--[Crowdfunding Database output files](Crowdfunding%20Database%20Outputs)
+-[Crowdfunding Database output files](Crowdfunding%20Database%20Outputs)  
 Contains the 4 output results from the database query of each table
 
 
