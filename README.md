@@ -21,3 +21,16 @@ has been transformed we created four CSV files and used the CSV file data to cre
 - Working file for K. Khan for the purpose of producing the contacts dataframe.
 
 
+## Database files  
+[crowdfunding_db_ERD.png](crowdfunding_db_ERD.png)  
+- ERD diagram to show the relationships between the four tables
+
+[crowdfunding_db_schema.sql](crowdfunding_db_schema.sql)  
+- Table schema for the database creates the foour tables (category, subcategory, contacts and campaign)
+
+[crowdfunding_queries.sql](crowdfunding_queries.sql)
+- Simple queries which select the data from each of the tables. These output the csv files in the [Crowdfunding Database Outputs](Crowdfunding Database Outputs) folder
+
+
+  
+
